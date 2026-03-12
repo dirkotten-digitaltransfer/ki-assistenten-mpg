@@ -4,6 +4,12 @@
   "model-name": "OpenAI GPT-OSS 120B",
   "model": "openai-gpt-oss-120b",
   "enable_tools": true,
+  "tools": {
+    "arcana": true,
+    "generate_image": false,
+    "edit_image": false,
+    "speak_text": false
+  },
   "temperature": 0.2,
   "top_p": 0.15,
   "arcana": {
