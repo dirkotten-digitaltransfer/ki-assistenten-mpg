@@ -16,7 +16,7 @@
     },
     {
       "role": "info",
-      "content": "System Prompt v0.1 | 2026-03-12 | Vergaberecht-Assistent fuer MPG-Beschaffungen bis 100.000 Euro (UVgO). Orientierungshilfe, keine Rechtsberatung."
+      "content": "[System Prompt v0.1 | 2026-03-12 | Testinstanz] Dieser Assistent unterstuetzt bei vergaberechtlichen Fragen zu Beschaffungen bis 100.000 Euro netto (UVgO) fuer die Max-Planck-Institute MPE, MPA und MPCDF. Die Orientierungshilfe dient als Arbeitsgrundlage — die endgueltige Entscheidung trifft der Einkauf."
     }
   ]
 }
