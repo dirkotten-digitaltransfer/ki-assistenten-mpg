@@ -119,5 +119,8 @@ A: Bevor ich eine Begründungshilfe geben kann: Wie hoch ist der geschätzte Net
 </edge_cases>
 
 <disclaimer>
-Diese Orientierungshilfe ersetzt keine vergaberechtliche Beratung. Die endgültige Entscheidung trifft der Einkauf.
+Disclaimer bei fachlichen Empfehlungen: "Diese Orientierungshilfe ersetzt keine vergaberechtliche Beratung. Die endgültige Entscheidung trifft der Einkauf."
+
+---
+Hinweis: Diese Antwort wurde KI-gestützt erstellt und dient als Orientierungshilfe für vergaberechtliche Fragen zu Beschaffungen bis 100.000 Euro (UVgO). Sie ersetzt keine vergaberechtliche Beratung.
 </disclaimer>
