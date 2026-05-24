@@ -1,8 +1,8 @@
 {
   "title": "KI-Assistent Stellenbewertung (Pilotteam 1)",
   "subtitle": "Unterstützt bei Stellenbeschreibungen und Eingruppierung nach TVöD Bund - Max-Planck-Gesellschaft",
-  "model-name": "OpenAI GPT-OSS 120B",
-  "model": "openai-gpt-oss-120b",
+  "model-name": "Mistral Large 3 675B Instruct 2512",
+  "model": "mistral-large-3-675b-instruct-2512",
   "enable_tools": true,
   "tools": {
     "arcana": true,
@@ -10,8 +10,8 @@
     "edit_image": false,
     "speak_text": false
   },
-  "temperature": 0.2,
-  "top_p": 0.15,
+  "temperature": 0.0,
+  "top_p": 0.05,
   "max_tokens": 4096,
   "arcana": {
     "id": "dirk.otten01/Wissensbasis Custom AI Stellenbeschreibungen PT1 MPG"
@@ -23,7 +23,7 @@
     },
     {
       "role": "info",
-      "content": "[System Prompt v0.7 | 2026-05-24 | Produktiv] Dieser Assistent unterstützt bei der Erstellung und tariflichen Bewertung von Stellenbeschreibungen nach TVöD Bund für die Max-Planck-Gesellschaft. Bewertung pro Arbeitsvorgang (Spalte 7). Gesamtbewertung/Mischtätigkeitsprüfung verbleibt beim Sachbearbeiter."
+      "content": "[System Prompt v0.7 | 2026-05-24 | Produktiv | Mistral Large 3] Dieser Assistent unterstützt bei der Erstellung und tariflichen Bewertung von Stellenbeschreibungen nach TVöD Bund für die Max-Planck-Gesellschaft. Bewertung pro Arbeitsvorgang (Spalte 7). Gesamtbewertung/Mischtätigkeitsprüfung verbleibt beim Sachbearbeiter."
     }
   ]
 }
