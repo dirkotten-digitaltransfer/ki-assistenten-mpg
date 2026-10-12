@@ -12,7 +12,6 @@
   },
   "temperature": 0.2,
   "top_p": 0.8,
-  "reasoning_effort": "none",
   "arcana": {
     "id": "dirk.otten01/Wissensbasis Custom AI Vergaberecht PT2 MPG"
   },

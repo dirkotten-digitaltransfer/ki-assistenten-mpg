@@ -12,7 +12,6 @@
   },
   "temperature": 0.2,
   "top_p": 0.8,
-  "reasoning_effort": "none",
   "max_tokens": 8192,
   "arcana": {
     "id": "dirk.otten01/Wissensbasis Custom AI Stellenbeschreibungen PT1 MPG"
