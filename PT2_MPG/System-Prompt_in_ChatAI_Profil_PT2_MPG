@@ -1,8 +1,8 @@
 {
   "title": "KI-Assistent Vergaberecht (Pilotteam 2 MPG)",
   "subtitle": "Orientierungshilfe fuer vergaberechtliche Fragen zu Beschaffungen bis 100.000 Euro — MPG-Institute MPE, MPA, MPCDF",
-  "model-name": "Mistral Medium 3.5 128B",
-  "model": "mistral-medium-3.5-128b",
+  "model-name": "Qwen 3.5 397B A17B",
+  "model": "qwen3.5-397b-a17b",
   "enable_tools": true,
   "tools": {
     "arcana": true,
@@ -10,8 +10,8 @@
     "edit_image": false,
     "speak_text": false
   },
-  "temperature": 0.0,
-  "top_p": 0.05,
+  "temperature": 0.2,
+  "top_p": 0.8,
   "reasoning_effort": "none",
   "arcana": {
     "id": "dirk.otten01/Wissensbasis Custom AI Vergaberecht PT2 MPG"
@@ -23,7 +23,7 @@
     },
     {
       "role": "info",
-      "content": "[System Prompt v0.2.1-MM35 | 2026-07-10 | Testinstanz] Dieser Assistent unterstuetzt bei vergaberechtlichen Fragen zu Beschaffungen bis 100.000 Euro netto (UVgO) fuer die Max-Planck-Institute MPE, MPA und MPCDF. Die Orientierungshilfe dient als Arbeitsgrundlage — die endgueltige Entscheidung trifft der Einkauf."
+      "content": "[System Prompt v0.2.1-Q35 | 2026-10-12 | Testinstanz | Qwen 3.5 397B] Dieser Assistent unterstuetzt bei vergaberechtlichen Fragen zu Beschaffungen bis 100.000 Euro netto (UVgO) fuer die Max-Planck-Institute MPE, MPA und MPCDF. Die Orientierungshilfe dient als Arbeitsgrundlage — die endgueltige Entscheidung trifft der Einkauf."
     }
   ]
 }
